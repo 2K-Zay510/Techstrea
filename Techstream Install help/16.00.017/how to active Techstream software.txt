@@ -1,0 +1,9 @@
+Go to 
+C:\Program Files(X86)\Toyota Diagnostics\Techstream\Bin
+
+Replace
+Mainmenu.exe
+
+all ok
+
+Click Techstream icon from destop, choose Evaluate to run
